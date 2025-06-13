@@ -1,4 +1,5 @@
 # Infrastructure setup guide for ImgStudio
+# basic
 
 ## 0\\ Setup **Vertex** & Request access to **required models**
 
